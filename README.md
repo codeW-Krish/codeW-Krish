@@ -29,13 +29,14 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 
 ### Stack
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cpp)](https://skillicons.dev/)
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi)](https://skillicons.dev/)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,go,kotlin,java,cpp)](https://skillicons.dev/)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,redis)](https://skillicons.dev/)
 
 [![Frontend & Mobile](https://skillicons.dev/icons?i=react,nextjs,html,css,androidstudio)](https://skillicons.dev/)
 
-[![Infra](https://skillicons.dev/icons?i=postgres,firebase,docker,git,postman)](https://skillicons.dev/)
+[![Infra](https://skillicons.dev/icons?i=postgres,firebase,supabase,appwrite,docker,git,postman)](https://skillicons.dev/)
 
 ![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector_DB-0ea5e9?style=flat-square&logoColor=white) ![LLM Routing](https://img.shields.io/badge/LLM_Routing-7c3aed?style=flat-square&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8b5cf6?style=flat-square&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-f59e0b?style=flat-square&logoColor=white) ![ResNet](https://img.shields.io/badge/ResNet-f97316?style=flat-square&logoColor=white) ![Vision Transformer](https://img.shields.io/badge/Vision_Transformer-10b981?style=flat-square&logoColor=white) ![SSE Streaming](https://img.shields.io/badge/SSE_Streaming-9333ea?style=flat-square&logoColor=white)
 
