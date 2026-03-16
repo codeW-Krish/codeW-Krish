@@ -7,7 +7,6 @@
 
 </div>
 
-----------
 
 ### What I do
 
@@ -58,7 +57,6 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 
 </div>
 
-----------
 
 ### What I find interesting
 
@@ -67,8 +65,6 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 -   Character-level source attribution and how it changes the trust dynamic in RAG systems
 -   The gap between "it works in a notebook" and "it works at 3am under real user load"
 -   Why most AI product demos are impressive and most AI products are not
-
-----------
 
 ### Currently
 
@@ -91,6 +87,6 @@ you're working on — reach out.
 [![Email](https://img.shields.io/badge/Email-6366f1?style=flat&logo=gmail&logoColor=white)](mailto:work.krish93@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/codeW-Krish)
 
-----------
+
 
 <div align="center"> <sub>Building at the intersection of "how does this actually work" and "how do we make this actually ship."</sub> </div>
