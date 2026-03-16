@@ -19,9 +19,9 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 
 ### What I'm building
 
--   **[DocuChat](https://github.com/codeW-Krish/docu-chat)** — Multi-document RAG with real-time passage highlighting and character-level source attribution. Next.js + Flask microservice + PHP CodeIgniter. [Live →](https://your-live-link/)
+-   **[DocuChat](https://github.com/codeW-Krish/docu-chat)** — Multi-document RAG with real-time passage highlighting and character-level source attribution. Next.js + Flask microservice + PHP CodeIgniter. [Live →](https://documentai.itskrish.tech/)
     
--   **[UpSkill AI](https://github.com/codeW-Krish/ai-course-backend)** — AI course platform that generates structured content and gates progression behind quiz checkpoints. Multi-provider LLM routing (Groq + Cerebras + Gemini). 50 subtopics in 24 seconds. [Walkthrough →](https://your-demo-link/)
+-   **[UpSkill AI](https://github.com/codeW-Krish/ai-course-backend)** — AI course platform that generates structured content and gates progression behind quiz checkpoints. Multi-provider LLM routing (Groq + Cerebras + Gemini). 50 subtopics in 24 seconds. [Walkthrough →](https://drive.google.com/file/d/1j0GkDIAXt97bolGqh5Lt2xljMBJf2hVP/view?usp=drive_link)
     
 -   **CNN vs ViT Study** — Empirical comparison across CNN baselines, ResNet variants, and Vision Transformer (scratch + pretrained) on CIFAR-10. 95.4% with fine-tuned ViT. Working toward a paper.
     
