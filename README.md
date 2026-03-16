@@ -68,12 +68,10 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 
 ### Currently
 
-```
-	Agent architectures                → multi-step reasoning that actually completes
-	Vision Transformer training run    → in progress
-	CNN vs ViT paper                   → findings being written up
-	LLM inference internals            → KV cache, speculative decoding
-```
+- Agent architectures → what actually makes multi-step reasoning reliable
+- CNN vs ViT paper → writing up findings, might publish
+- Vision Transformer training run → in progress  
+- LLM inference internals → KV cache, speculative decoding
 
 ----------
 
