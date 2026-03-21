@@ -86,7 +86,7 @@ Currently deep in Vision Transformers after finishing a structured empirical com
 If you're building something where the hard parts are system design,
 backend architecture, or the AI layer that has to actually work in
 production or if you just want to talk about something interesting
-you're working on — reach out.
+you're working on, reach out.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-6366f1?style=flat&logo=gmail&logoColor=white)](mailto:work.krish93@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/codeW-Krish)
